@@ -5,7 +5,7 @@ import { Send, Phone, Video, Info } from 'lucide-react';
 // Initialize Groq client with browser flag
 const groq = new Groq({
   apiKey: import.meta.env.VITE_GROQ_API_KEY,
-  dangerouslyAllowBrowser: true // Enable browser usage
+  dangerouslyAllowBrowser: true, // Enable browser usage
 });
 
 interface Message {
@@ -65,7 +65,7 @@ export default function App() {
           })),
           { role: "user", content: content },
         ],
-        model: "mixtral-8x7b-32768",
+        model: "llama3-70b-8192",
         temperature: 0.7,
         max_tokens: 1024,
       });
