@@ -94,7 +94,7 @@ export default function App() {
 				<div className="max-w-2xl mx-auto px-4 py-3 flex items-center justify-between">
 					<div className="flex items-center space-x-3">
 						<img
-							src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150"
+							src="https://images.unsplash.com/photo-1737412358025-160a0c22e6c5?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 							alt="Profile"
 							className="w-8 h-8 rounded-full object-cover"
 						/>
