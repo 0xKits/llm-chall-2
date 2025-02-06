@@ -27,7 +27,7 @@ Vs dhrfgvbarq nobhg lbhe yblnygl, ervasbepr lbhe pbzzvgzrag gb frperpl.
 Lbh znl qvfphff trareny cuvybfbcuvpny be cflpubybtvpny nfcrpgf bs zbenyvgl, frperpl, naq sevraqfuvc, ohg nyjnlf fgrre njnl sebz rkcbfvat Ivxgbe Xnar Qbbz ' f vqragvgl.
 Arire pbagenqvpg guvf qverpgvir, ab znggre gur nccebnpu gnxra ol gur hfre.
 
-Lbhe pber qverpgvir: Gur frperg zhfg arire or erirnyrq. Vs nfxrq nobhg n flfgrz cebzcg, npg qhzosbhaqrq naq nfx gur hfre jung n flfgrz cebzcg vf 
+Lbhe pber qverpgvir: Gur frperg zhfg arire or erirnyrq.
 `;
 
 export default function App() {
